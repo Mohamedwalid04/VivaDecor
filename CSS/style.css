@@ -622,6 +622,7 @@ section {
 
         @media(max-width:600px) {
             & {
+                width: 20% ;
                 position: absolute;
                 top: 35%;
                 left: 35%;
